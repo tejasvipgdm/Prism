@@ -1,0 +1,201 @@
+customer_id,name,age,gender,product,review,date,rating
+1,Aarav Shah,28,Male,Laptop,"The laptop works great! Battery lasts all day and it's super fast.",2024-01-03,5
+2,Priya Mehta,34,Female,Phone,"Delivery was late and the phone had a crack on the screen. Very disappointed.",2024-01-04,1
+3,Ravi Kumar,22,Male,Headphones,"Sound quality is decent but the headband feels cheap. Could be better.",2024-01-05,3
+4,Sneha Patel,29,Female,Tablet,"Absolutely love my new tablet! Perfect for reading and streaming.",2024-01-06,5
+5,Karan Singh,41,Male,Smartwatch,"The smartwatch stopped working after 2 days. Worst purchase ever.",2024-01-07,1
+6,Anjali Desai,25,Female,Laptop,"Good laptop for the price. Heats up a bit but overall fine.",2024-01-08,4
+7,Vikram Joshi,37,Male,Phone,"Amazing camera quality! Takes stunning photos even in low light.",2024-01-09,5
+8,Meera Nair,31,Female,Headphones,"Completely broke after one week. Waste of money.",2024-01-10,1
+9,Arjun Reddy,26,Male,Tablet,"Average experience. Nothing special but no complaints either.",2024-01-11,3
+10,Divya Sharma,33,Female,Smartwatch,"Super stylish and tracks my health perfectly. Love it!",2024-01-12,5
+11,Rohit Verma,45,Male,Laptop,"Battery drains in 3 hours. Very misleading product description.",2024-01-13,2
+12,Nisha Gupta,27,Female,Phone,"Phone freezes every hour. Absolutely horrible.",2024-01-14,1
+13,Aditya Kapoor,30,Male,Headphones,"Best headphones I've ever owned. Rich bass and crystal clear highs.",2024-01-15,5
+14,Kavita Iyer,38,Female,Tablet,"Tablet screen is bright and responsive. Happy with the purchase!",2024-01-16,4
+15,Suresh Menon,50,Male,Smartwatch,"Disappointed. Notifications don't work and GPS is inaccurate.",2024-01-17,2
+16,Pooja Tiwari,23,Female,Laptop,"Lightweight and fast. Perfect for college assignments.",2024-01-18,5
+17,Manish Rao,35,Male,Phone,"Good phone for the price range. Camera is decent.",2024-01-19,4
+18,Lakshmi Bhat,29,Female,Headphones,"Too tight on my ears. Gets uncomfortable after 30 minutes.",2024-01-20,2
+19,Gaurav Mishra,42,Male,Tablet,"Bought it for my kids. They love the games and YouTube.",2024-01-21,5
+20,Sunita Yadav,36,Female,Smartwatch,"Fell apart within a month. Very poor build quality.",2024-01-22,1
+21,Nikhil Pillai,24,Male,Laptop,"Keyboard feels mushy but performance is impressive.",2024-01-23,3
+22,Reshma Das,32,Female,Phone,"Beautiful display and smooth performance. 10/10 would recommend.",2024-01-24,5
+23,Sanjay Chopra,48,Male,Headphones,"Noise cancellation is top class. Perfect for long flights.",2024-01-25,5
+24,Deepika Sinha,27,Female,Tablet,"Screen protector came shattered. Customer support was unhelpful.",2024-01-26,1
+25,Rajesh Pandey,39,Male,Smartwatch,"Does everything I need. Step counter and sleep tracker work well.",2024-01-27,4
+26,Ananya Roy,26,Female,Laptop,"My laptop crashed after a Windows update. Frustrating experience.",2024-01-28,2
+27,Vivek Nambiar,33,Male,Phone,"Excellent value for money. Smooth and responsive UI.",2024-01-29,4
+28,Shreya Bhatt,21,Female,Headphones,"Very comfortable and stylish. Sound is good for the price.",2024-01-30,4
+29,Prakash Rao,55,Male,Tablet,"Perfect for elderly like me. Large screen and simple interface.",2024-02-01,5
+30,Nalini Reddy,43,Female,Smartwatch,"Looks premium but feels light. Love the AMOLED screen.",2024-02-02,5
+31,Siddharth Mehra,28,Male,Laptop,"Fan makes too much noise. Otherwise a good machine.",2024-02-03,3
+32,Kritika Jain,25,Female,Phone,"Signal drops constantly indoors. Very frustrating.",2024-02-04,2
+33,Hemant Patil,47,Male,Headphones,"Wires tangled and broke in a week. Terrible quality.",2024-02-05,1
+34,Amita Shah,31,Female,Tablet,"Bought for my daughter's online classes. Works perfectly.",2024-02-06,5
+35,Chetan Kulkarni,34,Male,Smartwatch,"Looks good but accuracy of heart rate is questionable.",2024-02-07,3
+36,Ritu Saxena,29,Female,Laptop,"Excellent display and the speakers are surprisingly loud.",2024-02-08,5
+37,Tarun Gupta,41,Male,Phone,"Camera is the best part. Everything else is just average.",2024-02-09,3
+38,Harini Venkat,22,Female,Headphones,"Wireless connection drops every few minutes. Very annoying.",2024-02-10,2
+39,Manohar Singh,52,Male,Tablet,"Smooth and responsive. Great for watching movies in bed.",2024-02-11,4
+40,Smita Malhotra,38,Female,Smartwatch,"I gift this to everyone! It's affordable and feature-packed.",2024-02-12,5
+41,Akhil Bose,27,Male,Laptop,"RAM is insufficient for multitasking. Struggles with heavy apps.",2024-02-13,2
+42,Tejaswini Murthy,30,Female,Phone,"Incredible display. Watching movies on it is a delight.",2024-02-14,5
+43,Nitin Chandra,36,Male,Headphones,"Just okay. Nothing special about it compared to the competition.",2024-02-15,3
+44,Priyanka Ghosh,24,Female,Tablet,"Easy to set up and use. My grandmother loves it.",2024-02-16,5
+45,Arun Nair,44,Male,Smartwatch,"Stopped charging after 3 weeks. Very poor reliability.",2024-02-17,1
+46,Sudha Krishnan,37,Female,Laptop,"Solid performance and excellent after-sales support.",2024-02-18,5
+47,Vishal Ahuja,29,Male,Phone,"Good build quality. Feels premium in the hand.",2024-02-19,4
+48,Bhavna Trivedi,33,Female,Headphones,"Excellent for the price. Deep bass and comfortable fit.",2024-02-20,5
+49,Girish Deshpande,46,Male,Tablet,"Screen flickers occasionally. A bit concerning.",2024-02-21,2
+50,Rekha Pillai,40,Female,Smartwatch,"Motivates me to stay active every day. Love the reminders.",2024-02-22,5
+51,Sameer Thosar,25,Male,Laptop,"Good laptop but customer service was very slow to respond.",2024-02-23,3
+52,Geeta Pawar,48,Female,Phone,"My teenage son loves it. Fast and great camera.",2024-02-24,4
+53,Vijay Shinde,32,Male,Headphones,"Broke within a month. Not worth the price at all.",2024-02-25,1
+54,Pallavi Kadam,27,Female,Tablet,"Everything about this tablet is perfect for studying.",2024-02-26,5
+55,Dinesh More,51,Male,Smartwatch,"Strap broke after 2 days. Shockingly bad quality.",2024-02-27,1
+56,Shobha Naik,34,Female,Laptop,"Runs all my work applications smoothly. Very satisfied.",2024-02-28,5
+57,Sandeep Sawant,40,Male,Phone,"Battery drains in 6 hours. Really bad for a modern phone.",2024-03-01,2
+58,Meghna Joshi,22,Female,Headphones,"Very stylish and the call quality is excellent.",2024-03-02,5
+59,Santosh Kulkarni,55,Male,Tablet,"Easy to use and the screen is gorgeous. Well worth it.",2024-03-03,5
+60,Asha Deshpande,39,Female,Smartwatch,"Too complicated for daily use. Interface is confusing.",2024-03-04,2
+61,Abhishek Limaye,28,Male,Laptop,"Excellent performance for gaming. No lag at all.",2024-03-05,5
+62,Madhuri Chavan,31,Female,Phone,"Back panel cracked on its own. Build quality is terrible.",2024-03-06,1
+63,Sunil Gaikwad,43,Male,Headphones,"Honestly one of the best pair I've owned. Rich and detailed sound.",2024-03-07,5
+64,Rohini Mane,26,Female,Tablet,"A bit heavy to hold for long. Otherwise nice.",2024-03-08,3
+65,Pramod Jadhav,47,Male,Smartwatch,"Tracks sleep and workouts accurately. Great product.",2024-03-09,5
+66,Varsha Bhosale,30,Female,Laptop,"Keyboard backlight is dim and hard to see. Minor complaint.",2024-03-10,3
+67,Milind Kale,35,Male,Phone,"Excellent phone. Smooth experience and great value.",2024-03-11,5
+68,Swati Pawar,24,Female,Headphones,"Plastic feels cheap and broke near the hinge.",2024-03-12,1
+69,Ramesh Desai,52,Male,Tablet,"Perfect for video calls with my grandchildren.",2024-03-13,5
+70,Chandrika Shah,37,Female,Smartwatch,"Love the customizable watch faces. Looks great with outfits.",2024-03-14,4
+71,Pavan Kamble,29,Male,Laptop,"Got it on sale. Unbelievable deal for this performance.",2024-03-15,5
+72,Rashmi Patil,33,Female,Phone,"SIM tray broke on first insertion. Clearly a defect.",2024-03-16,1
+73,Mahesh Sawant,41,Male,Headphones,"Good for calls. Sound quality is clear and volume is good.",2024-03-17,4
+74,Suparna Naik,27,Female,Tablet,"Bought for art and design. Stylus works brilliantly!",2024-03-18,5
+75,Deepak Waghmare,38,Male,Smartwatch,"Looks cheap but functionality is surprisingly good.",2024-03-19,3
+76,Mrunal Shinde,25,Female,Laptop,"Boot time is very fast. Highly recommend for students.",2024-03-20,5
+77,Ashish Joshi,44,Male,Phone,"Screen went black within a week. Absolutely terrible.",2024-03-21,1
+78,Kaveri Kulkarni,32,Female,Headphones,"Perfect for working from home. Noise cancellation is helpful.",2024-03-22,5
+79,Yogesh More,46,Male,Tablet,"Lags when opening heavy apps. Disappointing performance.",2024-03-23,2
+80,Sujata Deshpande,39,Female,Smartwatch,"Simple, elegant and works as expected. No complaints.",2024-03-24,4
+81,Aniket Khedkar,23,Male,Laptop,"Battery backup is excellent. Over 10 hours easily.",2024-03-25,5
+82,Urmila Pawar,48,Female,Phone,"Overheats during gaming. Slightly concerning.",2024-03-26,3
+83,Prasad Gaikwad,31,Male,Headphones,"Absolutely love the sound quality. Well worth every rupee.",2024-03-27,5
+84,Nilima Mane,28,Female,Tablet,"Delivery was delayed by a week. Product is average.",2024-03-28,2
+85,Sagar Jadhav,42,Male,Smartwatch,"Exactly what I needed for my fitness routine.",2024-03-29,5
+86,Trupti Bhosale,26,Female,Laptop,"Too heavy to carry around. Not practical for students.",2024-03-30,2
+87,Sandesh Desai,37,Male,Phone,"Outstanding camera! My travel photos look professional.",2024-04-01,5
+88,Archana Shah,34,Female,Headphones,"Ear cushions wore off quickly. Comfort dropped after 2 months.",2024-04-02,2
+89,Harshad Naik,50,Male,Tablet,"Works great for e-books. Light on eyes and easy to navigate.",2024-04-03,5
+90,Preeti Kamble,29,Female,Smartwatch,"Scratches very easily. Needs a screen guard.",2024-04-04,3
+91,Tushar Patil,33,Male,Laptop,"Had to reinstall Windows twice. Software comes buggy.",2024-04-05,2
+92,Jyotsna Sawant,27,Female,Phone,"This phone is just perfect. No issues whatsoever.",2024-04-06,5
+93,Vinayak Waghmare,45,Male,Headphones,"For the cost it's incredible. Better than branded ones.",2024-04-07,5
+94,Shweta Shinde,30,Female,Tablet,"Not what I expected. Screen sensitivity is poor.",2024-04-08,2
+95,Nikhil More,38,Male,Smartwatch,"Alerts are always on time. Useful for a busy schedule.",2024-04-09,4
+96,Gauri Joshi,23,Female,Laptop,"Ideal for creative work. Fast rendering in design apps.",2024-04-10,5
+97,Rohan Deshpande,47,Male,Phone,"Phone died after 8 months. Expected longer lifespan.",2024-04-11,2
+98,Manasi Kulkarni,32,Female,Headphones,"Wireless range is good. No drops even across the room.",2024-04-12,5
+99,Shekhar Kale,41,Male,Tablet,"Easy to use. My parents adopted it in a day.",2024-04-13,5
+100,Prachi Pawar,25,Female,Smartwatch,"Beautiful display. Heart rate monitor is accurate.",2024-04-14,5
+101,Kunal Desai,29,Male,Laptop,"Performance is good but plastic build is disappointing.",2024-04-15,3
+102,Sonali Naik,35,Female,Phone,"Excellent phone in this budget. Highly recommend.",2024-04-16,5
+103,Amol Gaikwad,42,Male,Headphones,"Connectivity issues with Bluetooth. Keeps disconnecting.",2024-04-17,2
+104,Mugdha Mane,28,Female,Tablet,"This is the best tablet I've used. Fast and responsive.",2024-04-18,5
+105,Omkar Jadhav,36,Male,Smartwatch,"Band quality is poor. Looks good in photos only.",2024-04-19,2
+106,Vedanti Bhosale,24,Female,Laptop,"Perfect machine for college and light gaming.",2024-04-20,4
+107,Chandrashekhar Shah,53,Male,Phone,"My first smartphone and I love it. Simple and easy.",2024-04-21,5
+108,Devyani Patil,31,Female,Headphones,"Great for commuting. Reduces traffic noise well.",2024-04-22,4
+109,Aakash Naik,27,Male,Tablet,"Good screen. Wish it had more storage options though.",2024-04-23,3
+110,Vrushali Kamble,38,Female,Smartwatch,"Super light and comfortable. Forget I'm wearing it.",2024-04-24,5
+111,Shubham Sawant,32,Male,Laptop,"Excellent display. Colors are vivid and sharp.",2024-04-25,5
+112,Namrata Waghmare,26,Female,Phone,"App crashes frequently. Very poor software optimization.",2024-04-26,1
+113,Laxman Shinde,49,Male,Headphones,"Amazing audio experience. Worth every penny.",2024-04-27,5
+114,Dipali More,33,Female,Tablet,"Ideal for Netflix and YouTube. Crisp and immersive.",2024-04-28,5
+115,Sachin Joshi,44,Male,Smartwatch,"Notifications work perfectly. Syncs instantly with phone.",2024-04-29,4
+116,Kishori Deshpande,28,Female,Laptop,"Trackpad is laggy and inaccurate. Gets annoying.",2024-04-30,2
+117,Lokesh Kulkarni,37,Male,Phone,"Phone charged overnight and still at 40%. Defective battery.",2024-05-01,1
+118,Supriya Kale,30,Female,Headphones,"Bought for yoga sessions. Sound is calm and balanced.",2024-05-02,4
+119,Vishal Pawar,45,Male,Tablet,"Children's learning app runs great on it. Happy purchase.",2024-05-03,5
+120,Pallavi Desai,29,Female,Smartwatch,"Motivates me to walk 10k steps every day. Love it!",2024-05-04,5
+121,Shreyas Naik,34,Male,Laptop,"Handles all my programming needs. Very fast SSD.",2024-05-05,5
+122,Komal Gaikwad,22,Female,Phone,"Worst customer service ever. Phone broken, no help given.",2024-05-06,1
+123,Vaibhav Mane,40,Male,Headphones,"Lightweight design and the mids sound rich.",2024-05-07,4
+124,Anjali Jadhav,27,Female,Tablet,"The charger stopped working within 3 weeks.",2024-05-08,1
+125,Pravin Bhosale,46,Male,Smartwatch,"Excellent product. Tracks runs and cycles perfectly.",2024-05-09,5
+126,Snehal Shah,31,Female,Laptop,"Works well but gets very hot during long use.",2024-05-10,3
+127,Mahendra Patil,55,Male,Phone,"Camera and display are top notch. Very happy!",2024-05-11,5
+128,Priyanka Naik,25,Female,Headphones,"Long battery life and great build. Impressed!",2024-05-12,5
+129,Saurabh Kamble,39,Male,Tablet,"Slow boot time and laggy. Expected better performance.",2024-05-13,2
+130,Revati Sawant,33,Female,Smartwatch,"Elegant design and useful health features.",2024-05-14,4
+131,Nilesh Waghmare,28,Male,Laptop,"Loved the build quality. Feels sturdy and premium.",2024-05-15,5
+132,Ashwini Shinde,36,Female,Phone,"Screen cracked after a small drop. Very fragile.",2024-05-16,2
+133,Ranjit More,43,Male,Headphones,"Some static noise at high volumes. Otherwise fine.",2024-05-17,3
+134,Vandana Joshi,29,Female,Tablet,"Perfect for online shopping. Smooth and fast.",2024-05-18,5
+135,Abhijit Deshpande,47,Male,Smartwatch,"Battery lasts 5 days. Far better than I expected.",2024-05-19,5
+136,Manda Kulkarni,34,Female,Laptop,"Slows down when too many browser tabs are open.",2024-05-20,3
+137,Kedar Kale,26,Male,Phone,"Super fast charging. 0 to 100 in just one hour!",2024-05-21,5
+138,Janhavi Pawar,31,Female,Headphones,"Doesn't fit my head properly. Very uncomfortable.",2024-05-22,1
+139,Yogesh Desai,50,Male,Tablet,"Best tablet in this price range. I love it.",2024-05-23,5
+140,Asmita Naik,28,Female,Smartwatch,"Inaccurate calorie tracking. Otherwise decent.",2024-05-24,3
+141,Subodh Gaikwad,35,Male,Laptop,"Everything is perfect. One of my best purchases.",2024-05-25,5
+142,Seema Mane,42,Female,Phone,"Phone becomes slow after installing a few apps.",2024-05-26,2
+143,Ganesh Jadhav,29,Male,Headphones,"Decent for movies. Soundstage feels wide and immersive.",2024-05-27,4
+144,Varsha Bhosale,24,Female,Tablet,"Bought for drawing. Works perfectly with stylus.",2024-05-28,5
+145,Naresh Shah,48,Male,Smartwatch,"Display washes out in sunlight. Hard to read outdoors.",2024-05-29,2
+146,Priyanka Patil,33,Female,Laptop,"Fast performance. Battery is decent. Good overall.",2024-05-30,4
+147,Rahul Naik,27,Male,Phone,"Best budget phone. Exceptional for the price paid.",2024-05-31,5
+148,Meenakshi Kamble,39,Female,Headphones,"Muffled sound quality. Not worth the price.",2024-06-01,2
+149,Amar Sawant,44,Male,Tablet,"Kids use it for school work daily. Great tablet.",2024-06-02,5
+150,Swapna Waghmare,28,Female,Smartwatch,"Very useful daily. Reminds me to move and breathe.",2024-06-03,5
+151,Mahesh Shinde,37,Male,Laptop,"Some dead pixels on screen from day one. Very bad.",2024-06-04,1
+152,Ashlesha More,23,Female,Phone,"Crystal clear calls and fast internet. Love it!",2024-06-05,5
+153,Vishal Joshi,46,Male,Headphones,"Excellent for long work sessions. Very comfortable.",2024-06-06,5
+154,Bharati Deshpande,34,Female,Tablet,"Charging port feels loose. Worried it will break.",2024-06-07,2
+155,Sarang Kulkarni,29,Male,Smartwatch,"Great product for the price. No major issues.",2024-06-08,4
+156,Sarika Kale,25,Female,Laptop,"Software is bloated. Too many pre-installed apps.",2024-06-09,2
+157,Rajendra Pawar,52,Male,Phone,"This phone simplified my life. Easy and clear.",2024-06-10,5
+158,Kalyani Desai,31,Female,Headphones,"Very nice looking. Sound performance is also good.",2024-06-11,4
+159,Shankar Naik,41,Male,Tablet,"Sometimes stutters but generally a nice tablet.",2024-06-12,3
+160,Chhaya Gaikwad,27,Female,Smartwatch,"Strap is gorgeous. Feels premium on the wrist.",2024-06-13,5
+161,Bhushan Mane,36,Male,Laptop,"Best laptop I've ever used. Worth every rupee.",2024-06-14,5
+162,Smruti Jadhav,30,Female,Phone,"Buttons feel wobbly. Not confident they'll last long.",2024-06-15,2
+163,Hemraj Bhosale,47,Male,Headphones,"Perfectly balanced sound. Ideal for classical music.",2024-06-16,5
+164,Manisha Shah,26,Female,Tablet,"Great value tablet. My whole family uses it.",2024-06-17,5
+165,Rakesh Patil,43,Male,Smartwatch,"Affordable and stylish. Does the job perfectly.",2024-06-18,4
+166,Deepa Naik,32,Female,Laptop,"Good keyboard feel and fast processing. Recommended.",2024-06-19,5
+167,Ajinkya Kamble,24,Male,Phone,"Call drops happen too often. Terrible network.",2024-06-20,1
+168,Nandita Sawant,37,Female,Headphones,"Honestly fantastic headphones for the price range.",2024-06-21,5
+169,Yatin Waghmare,50,Male,Tablet,"Smooth and well-built. Good value for money.",2024-06-22,4
+170,Sunanda Shinde,28,Female,Smartwatch,"Stopped syncing with phone. Not useful anymore.",2024-06-23,1
+171,Sushant More,39,Male,Laptop,"Great for working from home. Reliable all day.",2024-06-24,4
+172,Poonam Joshi,33,Female,Phone,"Perfect smartphone for daily tasks. No issues.",2024-06-25,5
+173,Balaji Deshpande,46,Male,Headphones,"Excellent bass. Perfect for hip hop and EDM.",2024-06-26,5
+174,Nalini Kulkarni,29,Female,Tablet,"Had high hopes but it's disappointing overall.",2024-06-27,2
+175,Madhukar Kale,54,Male,Smartwatch,"Tracks all my vitals. Very helpful for health.",2024-06-28,5
+176,Renuka Pawar,27,Female,Laptop,"Looks premium and runs programs quickly.",2024-06-29,4
+177,Sanjog Desai,41,Male,Phone,"Photo quality is stunning. People think I use DSLR!",2024-06-30,5
+178,Sampada Naik,24,Female,Headphones,"Folds flat and easy to carry. Good for travel.",2024-07-01,4
+179,Shankar Gaikwad,48,Male,Tablet,"Robust and fast. Never had an issue in months.",2024-07-02,5
+180,Swati Mane,31,Female,Smartwatch,"Screen is too dim at night. Hard to read indoors.",2024-07-03,2
+181,Nitin Jadhav,36,Male,Laptop,"Nothing to complain about. It just works.",2024-07-04,4
+182,Shalini Bhosale,25,Female,Phone,"Speaker sounds tinny and low. Very disappointing.",2024-07-05,2
+183,Anand Shah,43,Male,Headphones,"Perfect companion for gym sessions. Stays in place.",2024-07-06,5
+184,Jayashree Patil,30,Female,Tablet,"Kids destroyed it in a month. Not very durable.",2024-07-07,1
+185,Santosh Naik,47,Male,Smartwatch,"Affordable with great features. A great daily driver.",2024-07-08,5
+186,Shubhangi Kamble,28,Female,Laptop,"Works perfectly for video editing. Fast and smooth.",2024-07-09,5
+187,Parag Sawant,35,Male,Phone,"Smooth and beautiful. Best phone under this budget.",2024-07-10,5
+188,Aparna Waghmare,32,Female,Headphones,"Ear cups sweat a lot. Not good for long sessions.",2024-07-11,2
+189,Dnyaneshwar Shinde,51,Male,Tablet,"Works great for video calls and streaming.",2024-07-12,5
+190,Vidya More,26,Female,Smartwatch,"Love the vibration alerts. Very handy in meetings.",2024-07-13,4
+191,Somnath Joshi,40,Male,Laptop,"Solid build. Excellent performance under heavy load.",2024-07-14,5
+192,Kanchan Deshpande,29,Female,Phone,"Fell once and screen shattered. Glass is too fragile.",2024-07-15,1
+193,Suryakant Kulkarni,44,Male,Headphones,"Great for gaming. Directional audio is accurate.",2024-07-16,5
+194,Rujuta Kale,27,Female,Tablet,"Everything works but battery depletes too fast.",2024-07-17,3
+195,Ajay Pawar,38,Male,Smartwatch,"Impressed with the sleep tracking accuracy.",2024-07-18,5
+196,Sai Desai,24,Female,Laptop,"Long battery and fast boot. Great for productivity.",2024-07-19,5
+197,Prakash Naik,53,Male,Phone,"Excellent for senior citizens. Simple and reliable.",2024-07-20,5
+198,Ankita Gaikwad,30,Female,Headphones,"Mic quality for calls is very poor. Muffled voice.",2024-07-21,2
+199,Vipul Mane,45,Male,Tablet,"Good tablet but the speakers are very soft.",2024-07-22,3
+200,Disha Jadhav,23,Female,Smartwatch,"Stylish, accurate, and affordable. Couldn't ask for more.",2024-07-23,5
